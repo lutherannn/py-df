@@ -1,0 +1,22 @@
+# Comments start with a pound sign.
+# You can write anything you want in a line, but if you include a lowercase i, d, s, or o then it will be read by the interpreter.
+# For now, comments must be on their own line
+
+<H = iisiiiisiiiiiiii> o
+<e = iisiiiiiisi> o
+<l = iiisisiiiiiiii> o
+<l = iiisisiiiiiiii> o
+#O is lowercased, can't put an o without it being read.
+<O = iiisiisdddddddddd> o
+
+<NEWLINE = iisiisdddd> o
+
+<W = iiissiiiiii> o
+# Again, O is lowercased here.
+<O = iiisiisdddddddddd> o
+<r = iiisiisddddddd> o
+<l = iiisisiiiiiiii> o
+#D is lowercased
+<D = iiisis> o
+<! = iisiisddd> o
+<NEWLINE = iiisi> o
