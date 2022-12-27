@@ -7,8 +7,8 @@ ascii-interpret.asc is the input file for ascii-interpreter.py. It contains ASCI
 helloworld.df is a hello world program written in deadfish. I'm not sure if that's the shortest way to do it or not<br>
 
 # Usage
-ascii-interpreter.py <inputfile> <outputfile><br>
-df-interpreter.py <inputfile><br>
+ascii-interpreter.py \<inputfile\> \<outputfile\><br>
+df-interpreter.py \<inputfile\><br>
 
 # Basics of Deadfish:
 It's basically brainfuck without loops, and only working on one cell at a time, which makes it super easy to do something like this.<br>
